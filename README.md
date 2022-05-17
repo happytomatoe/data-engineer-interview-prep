@@ -29,4 +29,7 @@ Topics to cover:
 
 Helpfull resources:
 1) https://www.startdataengineering.com/post/10-skills-to-ace-your-data-engineering-interview/
-2) ETL vs ELT - looks like ELT is when data is extracted from source system, loaded into warehouse/object storage and transformed in data warehouse
+2) 
+
+Notes:
+- ETL vs ELT - looks like ELT is when data is extracted from source system, loaded into warehouse/object storage and transformed in data warehouse
