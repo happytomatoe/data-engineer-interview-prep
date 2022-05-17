@@ -14,6 +14,7 @@ Topics to cover:
 1) https://towardsdatascience.com/the-ultimate-guide-to-functional-programming-for-big-data-1e57b0d225a3
 2) 
 - Yarn
+1) Yarn schedulers - https://towardsdatascience.com/schedulers-in-yarn-concepts-to-configurations-5dd7ced6c214
 - SQL
 -  Data Modeling (dimensional models and 3NF)
 - Data storage formats(Parquet, Avro)
