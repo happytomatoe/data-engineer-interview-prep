@@ -21,7 +21,9 @@ Topics to cover:
 - Big data architectures
 - Cloud?
 - Database&DWH
-4) CAP therorem - https://www.debadityachakravorty.com/system_design/captheorem/
+1) CAP therorem - https://www.debadityachakravorty.com/system_design/captheorem/, https://softwaremill.com/how-to-choose-a-database-for-your-project/
+2) How to choose a DB - https://en.pingcap.com/blog/how-to-efficiently-choose-the-right-database-for-your-applications/
+3) Relation DB normalization - https://www.guru99.com/database-normalization.html
 - SOLID
 
 Helpfull resources:
