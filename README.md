@@ -2,6 +2,7 @@
 
 Topics to cover:
 - Java
+1) https://www.amazon.com/Oracle-Certified-Professional-Programmer-Study/dp/1119584701
 - Scala
 1) https://docs.scala-lang.org/overviews/scala-book/introduction.html
 2) [Scala udemy courses](https://www.udemy.com/course/stairway-to-scala-applied-part-1/)
