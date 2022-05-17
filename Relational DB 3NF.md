@@ -8,15 +8,15 @@ The objectives of normalisation beyond 1NF (first normal form) were stated as fo
 [Wikipedia](https://en.wikipedia.org/wiki/Database_normalization)
 
 
-How to reach First Normal Form (1NF):
+1NF:
 - Atomic values: each cell contains unique and single values
 - Each record needs to be unique
 
-Second Normal Form (2NF):
+2NF:
 - Have reached 1NF
 - All columns in the table must rely on the Primary Key
 
 
-Third Normal Form (3NF):
+3NF:
 - Must be in 2nd Normal Form
 - No transitive dependencies
