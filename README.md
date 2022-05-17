@@ -6,16 +6,15 @@ Topics to cover:
 - Scala
 1) https://docs.scala-lang.org/overviews/scala-book/introduction.html
 2) [Scala udemy courses](https://www.udemy.com/course/stairway-to-scala-applied-part-1/)
+- SQL
 - Functional programming
 1) https://docs.scala-lang.org/overviews/scala-book/functional-programming.html
-2) 
 - Distributed computing
 - Spark
 1) https://towardsdatascience.com/the-ultimate-guide-to-functional-programming-for-big-data-1e57b0d225a3
 2) 
 - Yarn
 1) Yarn schedulers - https://towardsdatascience.com/schedulers-in-yarn-concepts-to-configurations-5dd7ced6c214
-- SQL
 -  Data Modeling (dimensional models and 3NF)
 - Data storage formats(Parquet, Avro)
 - structured and semi-structured sources
