@@ -25,6 +25,8 @@ Topics to cover:
 2) How to choose a DB - https://en.pingcap.com/blog/how-to-efficiently-choose-the-right-database-for-your-applications/
 3) Relation DB normalization - https://www.guru99.com/database-normalization.html
 - SOLID
+1) https://www.jrebel.com/blog/solid-principles-in-java
+2) LSP - https://stackoverflow.com/questions/56860/what-is-an-example-of-the-liskov-substitution-principle
 
 Helpfull resources:
 1) https://www.startdataengineering.com/post/10-skills-to-ace-your-data-engineering-interview/
