@@ -1,4 +1,5 @@
 1) Parallel vs distributed computing
+
 A: Distributed computing - each node has it's own CPU and memory and they transfer messages
 Parallel computing is tightly couple form of distributed computing when processors use same memory
 
