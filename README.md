@@ -7,6 +7,7 @@ Topics to cover:
 1) https://docs.scala-lang.org/overviews/scala-book/introduction.html
 2) [Scala udemy courses](https://www.udemy.com/course/stairway-to-scala-applied-part-1/)
 - SQL
+1) https://www.essentialsql.com/
 - Functional programming
 1) https://docs.scala-lang.org/overviews/scala-book/functional-programming.html
 - Distributed computing
