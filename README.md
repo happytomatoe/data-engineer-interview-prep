@@ -12,7 +12,7 @@ Topics to cover:
 - Distributed computing
 - Spark
 1) https://towardsdatascience.com/the-ultimate-guide-to-functional-programming-for-big-data-1e57b0d225a3
-2) 
+2) Joins - https://luminousmen.com/post/introduction-to-pyspark-join-types
 - Yarn
 1) Yarn schedulers - https://towardsdatascience.com/schedulers-in-yarn-concepts-to-configurations-5dd7ced6c214
 -  Data Modeling (dimensional models and 3NF)
