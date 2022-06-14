@@ -36,3 +36,8 @@ Helpfull resources:
 
 Notes:
 - ETL vs ELT - looks like ELT is when data is extracted from source system, loaded into warehouse/object storage and transformed in data warehouse
+
+TODO:
+1) Add kafka
+2) Add how to do performance optimizations for sql queries
+3) Performance optimization for spark?
