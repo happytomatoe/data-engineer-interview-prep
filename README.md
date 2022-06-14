@@ -23,6 +23,7 @@ Topics to cover:
 - Big data architectures
 - Cloud?
 - Database&DWH
+- Datalake vs Datawarehouse
 7) CAP therorem - https://www.debadityachakravorty.com/system_design/captheorem/, https://softwaremill.com/how-to-choose-a-database-for-your-project/
 8) How to choose a DB - https://en.pingcap.com/blog/how-to-efficiently-choose-the-right-database-for-your-applications/
 9) Relation DB normalization - https://www.guru99.com/database-normalization.html
