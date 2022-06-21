@@ -15,6 +15,8 @@ Frameworks
 - Spark provides great support for processing Parquet formats. Avro is often a good choice for Kafka.
 [<img src="[http://www.google.com.au/images/nav_logo7.png](https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/Nexla-File-Format.png)">](http://google.com.au/)
 
+[<img src="https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/Nexla-File-Format.png">](https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/Nexla-File-Format.png)
+https://www.datanami.com/2018/05/16/big-data-file-formats-demystified/
 
 Notes:
 - Avro is a row-based data format slash a data serialization system released by Hadoop working group in 2009
