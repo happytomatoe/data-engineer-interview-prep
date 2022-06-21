@@ -13,6 +13,8 @@ Nested Columns
 - If you have a lot of complex nested columns in your dataset and often only query a subset of the subcolumns, Parquet would be a good choice. Parquet is implemented using the record shredding and assembly algorithm described in the Dremel paper, which allows you to access and retrieve subcolumns without pulling the rest of the nested column.(https://towardsdatascience.com/demystify-hadoop-data-formats-avro-orc-and-parquet-e428709cf3bb)
 Frameworks
 - Spark provides great support for processing Parquet formats. Avro is often a good choice for Kafka.
+[<img src="[http://www.google.com.au/images/nav_logo7.png](https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/Nexla-File-Format.png)">](http://google.com.au/)
+
 
 Notes:
 - Avro is a row-based data format slash a data serialization system released by Hadoop working group in 2009
