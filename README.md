@@ -8,7 +8,7 @@ Topics to cover:
 - Scala
 4) https://docs.scala-lang.org/overviews/scala-book/introduction.html
 5) [Scala udemy courses](https://www.udemy.com/course/stairway-to-scala-applied-part-1/)
-Most popular questions:
+<br />Most popular questions:
 a) case classes
 b) pattern matching
 - SQL
