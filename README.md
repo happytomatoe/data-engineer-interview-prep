@@ -26,8 +26,10 @@ b) pattern matching
 - Data storage formats(Parquet vs Avro)
 1) https://www.clairvoyant.ai/blog/big-data-file-formats
 2) https://www.adaltas.com/en/2020/07/23/benchmark-study-of-different-file-format/
-3) [Parquet](https://github.com/happytomatoe/parquet-format)
-4)  
+3) https://luminousmen.com/post/big-data-file-formats
+4) https://towardsdatascience.com/big-data-file-formats-explained-dfaabe9e8b33
+5) [Parquet](https://github.com/happytomatoe/parquet-format)
+6)  
 - structured and semi-structured sources
 - Big data architectures
 - Cloud?
