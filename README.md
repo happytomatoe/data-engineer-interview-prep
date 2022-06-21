@@ -24,6 +24,9 @@ b) pattern matching
 11) Yarn schedulers - https://towardsdatascience.com/schedulers-in-yarn-concepts-to-configurations-5dd7ced6c214
 -  Data Modeling (dimensional models and 3NF)
 - Data storage formats(Parquet vs Avro)
+1) https://www.clairvoyant.ai/blog/big-data-file-formats
+2) [Parquet](https://github.com/happytomatoe/parquet-format)
+3)  
 - structured and semi-structured sources
 - Big data architectures
 - Cloud?
