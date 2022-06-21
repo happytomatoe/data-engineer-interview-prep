@@ -3,11 +3,12 @@
 Topics to cover:
 - Java
 1) https://www.amazon.com/Oracle-Certified-Professional-Programmer-Study/dp/1119584701
-2) streaming conepts in Java language, recommended book: Java 8 in Action: Lambdas, Streams, and Functional-Style Programming
-3) code design concepts, recommended book: Java By Comparison, chapter 8: Let your data flow -> Side Effects
+2) Functional interface - any interface with a SAM(Single Abstract Method) is a functional interface. @FunctinalInterface anotation tells compiler to check if this is the functional interface(https://docs.oracle.com/javase/8/docs/api/java/lang/FunctionalInterface.html)
+3) streaming conepts in Java language, recommended book: Java 8 in Action: Lambdas, Streams, and Functional-Style Programming
+4) code design concepts, recommended book: Java By Comparison, chapter 8: Let your data flow -> Side Effects
 - Scala
-4) https://docs.scala-lang.org/overviews/scala-book/introduction.html
-5) [Scala udemy courses](https://www.udemy.com/course/stairway-to-scala-applied-part-1/)
+5) https://docs.scala-lang.org/overviews/scala-book/introduction.html
+6) [Scala udemy courses](https://www.udemy.com/course/stairway-to-scala-applied-part-1/)
 <br />Most popular questions:
 a) case classes
 b) pattern matching
