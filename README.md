@@ -25,8 +25,9 @@ b) pattern matching
 -  Data Modeling (dimensional models and 3NF)
 - Data storage formats(Parquet vs Avro)
 1) https://www.clairvoyant.ai/blog/big-data-file-formats
-2) [Parquet](https://github.com/happytomatoe/parquet-format)
-3)  
+2) https://www.adaltas.com/en/2020/07/23/benchmark-study-of-different-file-format/
+3) [Parquet](https://github.com/happytomatoe/parquet-format)
+4)  
 - structured and semi-structured sources
 - Big data architectures
 - Cloud?
