@@ -4,7 +4,7 @@ AVRO vs. PARQUET
 |Comparison type| Avro  | Parquet |
 | ------------- | ------------- | ------------- |
 | Read/Write Intensive & Query Pattern| ideal for write intesive operations or read all data  | ideal for querying a subset of columns in a multi-column table  |
-| Compression| Lower(row format)  | Better(columnar format)  |
+| Compression| Lower(row format)  | Better(columnar format(rle, dictionary encoding))  |
 | Schema evolution support | Better(full,backward,forward compatibility) | Worse(merge schema on read)  |
 | Nested Columns | can have nested schemas/columns | can have nested schemas/columns with skipping them   |
 | Frameworks support | Kafka | Spark   |
