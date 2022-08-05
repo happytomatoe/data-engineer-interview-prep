@@ -55,3 +55,8 @@ TODO:
 2) Add how to do performance optimizations for sql queries
 3) Performance optimization for spark?
 4) 
+
+
+TODO: 
+1) do a pentesting for existing knowledge - 
+a) go through use cases for technologies 
