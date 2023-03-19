@@ -50,6 +50,22 @@ Helpfull resources:
 Notes:
 - ETL vs ELT - looks like ELT is when data is extracted from source system, loaded into warehouse/object storage and transformed in data warehouse
 
+Real life questions:
+1) what is the file size you’ve used? Reason Behind your answer. 
+2) How long does it take to run your script in production cluster? How did you optimized the timings. Challenges you have faced. 
+3) what was the file size for production environment? 
+4) Are you planning for anything to improve the performance? 
+5) what size of file do you use for Development? 
+6) what did you do to increase the performance(in your project's Hive, spark)? 
+7) what is your cluster size? Reason Behind your answer. 
+8) what are the challenges you have faced in your project? Give 2 examples? 
+9) How to debug production issue?(logs, script counters, JVM) 
+10) how do you select the eco-system tools for your project? 
+11) How many nodes you are using currently? 
+12) what is the job scheduler you use in production cluster? 
+13) Each node size? Code storage location? 
+
+
 TODO:
 1) Add kafka
 2) Add how to do performance optimizations for sql queries
