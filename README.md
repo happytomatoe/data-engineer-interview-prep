@@ -14,6 +14,8 @@ a) case classes
 b) pattern matching
 - SQL
 6) https://www.essentialsql.com/
+- https://towardsdatascience.com/sql-practical-details-cheat-sheet-for-data-analysis-f98406a71a09
+- https://mode.com/sql-tutorial/sql-window-functions/
 7) https://github.com/smpetersgithub/AdvancedSQLPuzzles
 - Functional programming
 8) https://docs.scala-lang.org/overviews/scala-book/functional-programming.html
